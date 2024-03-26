@@ -1,0 +1,12 @@
+#nav-links {
+    display: none; /* Initially hide the navigation links */
+}
+
+#menu-icon {
+    display: block; /* Display the menu icon */
+    background: none;
+    border: none;
+    color: blue;
+    font-size: 16px;
+    cursor: pointer;
+}
