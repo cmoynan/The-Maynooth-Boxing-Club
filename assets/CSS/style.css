@@ -23,3 +23,14 @@ h3 {
 h4 {
     text-align: center;
 }
+
+nav a {
+    color: whitesmoke;
+    text-decoration: none;
+    margin: 4px;
+
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
