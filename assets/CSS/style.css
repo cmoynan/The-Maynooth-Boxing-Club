@@ -125,32 +125,18 @@ footer nav {
     }
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 1280px) {
     
     .about-image {
-        width: 45%;
-        height: 35vh;
+        width: 40%;
+        height: 60vh;
     }
     
     #contact-us {
         margin: auto;
-        width: 20%;
+        width: 15%;
         padding: 10px;
-        overflow: hidden;
-        height: 35vh;
+        height: 55vh;
     }
 }
 
-@media screen and (max-height: 932px) {
-    #contact-us {
-        margin: auto;
-        width: 50%;
-        height: 50%;
-    }
-
-    .about-image {
-        width: 55%;
-        height: 40%;
-    }
-
-}
