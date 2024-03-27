@@ -56,7 +56,7 @@ p {
     background: url(../images/boxing\ landing.jpg) no-repeat center / cover;
     background-color: rgb(40, 40, 40);
     color: whitesmoke;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
 }
 
 .about-image {
@@ -103,4 +103,54 @@ footer nav {
     text-decoration: none;
     text-align: center;
     font-size: 150%;
+}
+
+@media screen and (min-width: 768px) {
+
+    .about-image {
+        width: 45%;
+        height: 45vh;
+    }
+
+    #contact-us {
+        margin: auto;
+        width: 25%;
+        padding: 10px;
+        height: 38vh;
+    }
+
+    nav {
+        font-size: 180%;
+        
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    
+    .about-image {
+        width: 45%;
+        height: 35vh;
+    }
+    
+    #contact-us {
+        margin: auto;
+        width: 20%;
+        padding: 10px;
+        overflow: hidden;
+        height: 35vh;
+    }
+}
+
+@media screen and (max-height: 932px) {
+    #contact-us {
+        margin: auto;
+        width: 50%;
+        height: 50%;
+    }
+
+    .about-image {
+        width: 55%;
+        height: 40%;
+    }
+
 }
