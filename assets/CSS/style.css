@@ -28,8 +28,8 @@ h2 {
 }
 
 h3 {
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 2px;
     text-align: center;
 }
 
@@ -46,6 +46,10 @@ nav a {
 
 nav a:hover {
     text-decoration: underline;
+}
+
+p {
+    padding-bottom: 10px;
 }
 
 #about {
@@ -68,8 +72,7 @@ nav a:hover {
 #classes {
     background-color: black;
     color: whitesmoke;
-    padding: 0 0;
-
+    padding-bottom: 10px;
 }
 
 label {
