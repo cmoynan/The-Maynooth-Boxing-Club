@@ -97,7 +97,7 @@ label {
 
 .submit-button:hover {
     background-color: #007bff;
-    color: white; 
+    color: white;
 }
 
 #contact-us {
@@ -127,19 +127,57 @@ footer nav {
 }
 
 @media screen and (max-width: 768px) {
-    
+
     header {
         padding: 10px 0;
     }
-    
+
     h1,
     h2 {
         font-size: 150%;
     }
-    
+
     #contact-us {
         width: 90%;
     }
-    
+
 }
 
+@media screen and (min-height: 932px) {
+    section {
+        padding-bottom: 25px 0;
+    }
+
+    h1,
+    h2 {
+        font-size: xx-large;
+    }
+
+    p {
+        font-size: x-large;
+    }
+
+    form {
+        font-size: x-large;
+    }
+
+    input {
+        font-size: x-large;
+    }
+
+    footer nav {
+        font-size: xx-large;
+    }
+}
+
+@media screen and (min-height: 1024px) {
+
+    h1,
+    h2 {
+        font-size: 200%;
+    }
+
+    p {
+        font-size: xx-large;
+    }
+}
