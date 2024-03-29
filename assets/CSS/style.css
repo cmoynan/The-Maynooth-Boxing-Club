@@ -105,38 +105,20 @@ footer nav {
     font-size: 150%;
 }
 
-@media screen and (min-width: 768px) {
-
-    .about-image {
-        width: 45%;
-        height: 45vh;
-    }
-
-    #contact-us {
-        margin: auto;
-        width: 25%;
-        padding: 10px;
-        height: 38vh;
-    }
-
-    nav {
-        font-size: 180%;
-        
-    }
-}
-
-@media screen and (min-width: 1280px) {
+@media screen and (max-width: 768px) {
     
-    .about-image {
-        width: 40%;
-        height: 60vh;
+    header {
+        padding:
+    }
+    
+    h1,
+    h2 {
+        font-size: 150%;
     }
     
     #contact-us {
-        margin: auto;
-        width: 15%;
-        padding: 10px;
-        height: 55vh;
+        width: 90%;
     }
+    
 }
 
