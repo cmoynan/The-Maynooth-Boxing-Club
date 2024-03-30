@@ -28,10 +28,10 @@ Finally on the main page you have at the footer the social media links which whe
 
 DESIGN:
 
-Primary Color: Black
+Primary Color:
 Black is chosen as the primary color. It symbolizes grit and determination. By using black as the primary color, the project aims to convey a sense of reliability and trustworthiness to users.
 
-Accent Color: White
+Accent Color:
 White serves as the accent color to create contrast and highlight important elements on the website. 
 
 Background image:
