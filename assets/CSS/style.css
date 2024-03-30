@@ -67,6 +67,18 @@ p {
     padding-bottom: 10px;
 }
 
+.about-content {
+    text-align: center;
+}
+
+/* About heading styles*/
+.about-heading {
+    display: block;
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
 /* About section image container styles */
 .about-image {
     background-color: rgb(0, 0, 0, 0.7);
