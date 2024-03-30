@@ -141,6 +141,14 @@ label {
     height: 60vh;
 }
 
+#form-message {
+    display: none;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+}
+
 /* Footer styles */
 footer {
     font-family: Arial, sans-serif;
