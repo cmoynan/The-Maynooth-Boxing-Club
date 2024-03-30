@@ -35,7 +35,7 @@ Accent Color:
 White serves as the accent color to create contrast and highlight important elements on the website. 
 
 Background image:
-The background image used for the boxing website features someone engaged in training activities. This image was carefully selected to align with the theme and purpose of the website, which revolves around boxing and fitness. The color of the iage contracts well with the rest of the website
+The background image used for the boxing website features someone engaged in training activities. This image was carefully selected to align with the theme and purpose of the website, which revolves around boxing and fitness. The color of the image contrasts well with the rest of the website
 
 The webpage serves as a concise introduction to the club, allowing users to quickly familiarize themselves with its offerings and make contact for further information. By keeping the design simple and straightforward, users can easily navigate the site and access the information they need before reaching out. This approach enhances user convenience and ensures a seamless experience, encouraging engagement and interaction with the club.
 
