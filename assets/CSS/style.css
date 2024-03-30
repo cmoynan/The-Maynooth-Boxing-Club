@@ -180,7 +180,12 @@ footer nav {
 /* Media query for screens with a minimum height of 932px */
 @media screen and (min-height: 932px) {
     section {
-        padding-bottom: 25px 0;
+        padding-bottom: 25px;
+        padding-right: 0;
+    }
+
+    nav {
+        font-size: x-large;
     }
 
     h1,
