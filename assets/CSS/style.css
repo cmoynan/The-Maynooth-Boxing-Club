@@ -79,6 +79,11 @@ p {
     margin-bottom: 10px;
 }
 
+/* Hiding the About heading*/
+#about h2 {
+    display: none;
+}
+
 /* About section image container styles */
 .about-image {
     background-color: rgb(0, 0, 0, 0.7);
