@@ -56,7 +56,7 @@ nav a:hover {
 
 /* Paragraph styles */
 p {
-    padding-bottom: 10px;
+    padding-top: 10px;
 }
 
 /* About section styles */
@@ -189,7 +189,9 @@ footer nav {
     }
 
     h1,
-    h2 {
+    h2,
+    h3,
+    h4 {
         font-size: xx-large;
     }
 
