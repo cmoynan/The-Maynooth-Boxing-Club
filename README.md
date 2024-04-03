@@ -3,7 +3,7 @@
 
 Welcome to my Maynooth Boxing club website. The Maynooth boxing website is aimed at getting people from the local commnuity of Maynooth and also neighbouring towns to get involved in Boxing while also getting fit. The site was created in order to give the boxing club owners a way of informing people on what classes are provided and also at what time they are on at while also giving users an option to contact them via a form or throguh their social media links.
 
-FEATURES:
+## FEATURES:
 
 The website contains a fully functioning navigation bar.
 
@@ -26,21 +26,21 @@ Finally on the main page you have at the footer the social media links which whe
 
 ![image](https://github.com/cmoynan/The-Maynooth-Boxing-Club/assets/150179658/4ac1dd4c-7729-410b-a4e2-f503b7e5dd2a)
 
-DESIGN:
+## DESIGN:
 
 Primary Color:
 Black is chosen as the primary color. It symbolizes grit and determination. By using black as the primary color, the project aims to convey a sense of reliability and trustworthiness to users.
 
-Accent Color:
+# Accent Color:
 White serves as the accent color to create contrast and highlight important elements on the website. 
 
-Background image:
+# Background image:
 The background image used for the boxing website features someone engaged in training activities. This image was carefully selected to align with the theme and purpose of the website, which revolves around boxing and fitness. The color of the image contrasts well with the rest of the website
 
 The webpage serves as a concise introduction to the club, allowing users to quickly familiarize themselves with its offerings and make contact for further information. By keeping the design simple and straightforward, users can easily navigate the site and access the information they need before reaching out. This approach enhances user convenience and ensures a seamless experience, encouraging engagement and interaction with the club.
 
 
-TESTING:
+## TESTING:
 
 Navigation Links - All navigation links have been tested and verified to accurately navigate users to the corresponding sections of the webpage upon clicking.
 
@@ -79,7 +79,7 @@ I used the lighthouse function on devtools to test the performamce and accessibi
 ![image](https://github.com/cmoynan/The-Maynooth-Boxing-Club/assets/150179658/cc5d991d-885c-4e4a-82b4-9aac54ffd865)
 
 
-BUGS:
+## BUGS:
 
 Lighthouse scroe was only 31% for perfromace. Mainly caused by the landing image being too large. Reduced the image size to correct this.
 
@@ -90,7 +90,7 @@ The site was deployed to GITHUB pages. In the GitHub repository, I navigated to 
 
 GitHub link - https://cmoynan.github.io/The-Maynooth-Boxing-Club/
 
-CREDITS:
+## CREDITS:
 
 Text for the classes descirption was taken from a couple boxing websites . beatboxboxingclub.com and whitecollarboxing.ie.
 
