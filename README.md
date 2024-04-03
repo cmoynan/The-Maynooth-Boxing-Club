@@ -1,7 +1,11 @@
 ![image](https://github.com/cmoynan/The-Maynooth-Boxing-Club/assets/150179658/4f6716a7-d7c7-4523-8794-7e915fd02a2d)
 
 
-Welcome to my Maynooth Boxing club website. The Maynooth boxing website is aimed at getting people from the local commnuity of Maynooth and also neighbouring towns to get involved in Boxing while also getting fit. The site was created in order to give the boxing club owners a way of informing people on what classes are provided and also at what time they are on at while also giving users an option to contact them via a form or throguh their social media links.
+## The Maynooth Boxing Club Website
+
+Welcome to the Maynooth Boxing Club website, your gateway to a vibrant community initiative aimed at promoting boxing and fitness within Maynooth and neighboring towns. Our platform serves as an informative hub, designed to engage individuals in the plethora of opportunities available at our boxing club.
+
+Our mission is clear: to encourage local participation in boxing and fitness activities. Through our website, we aim to provide comprehensive details regarding the classes we offer, including their schedules, ensuring accessibility for all interested individuals. Additionally, we facilitate communication by offering contact options, such as a convenient form submission feature and links to our social media platforms.
 
 ## FEATURES:
 
@@ -28,7 +32,8 @@ Finally on the main page you have at the footer the social media links which whe
 
 ## DESIGN:
 
-Primary Color:
+# Primary Color:
+
 Black is chosen as the primary color. It symbolizes grit and determination. By using black as the primary color, the project aims to convey a sense of reliability and trustworthiness to users.
 
 # Accent Color:
@@ -89,6 +94,19 @@ DEPLOYMENT:
 The site was deployed to GITHUB pages. In the GitHub repository, I navigated to the Settings tab From the source section drop-down menu,I selected the Master Branch Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 GitHub link - https://cmoynan.github.io/The-Maynooth-Boxing-Club/
+
+## Clone the Repository:
+
+Open your terminal or command prompt and navigate to the directory where you want to clone the repository.
+
+Use the following command to clone the repository:
+
+git clone https://github.com/cmoynan/The-Maynooth-Boxing-Club.git
+
+![image](https://github.com/cmoynan/The-Maynooth-Boxing-Club/assets/150179658/82d931d5-8639-42ac-988b-178c42993e15)
+
+
+This will create a local copy of the repository named "The-Maynooth-Boxing-Club" in your current directory.
 
 ## CREDITS:
 
