@@ -30,6 +30,10 @@ Finally on the main page you have at the footer the social media links which whe
 
 ![image](https://github.com/cmoynan/The-Maynooth-Boxing-Club/assets/150179658/4ac1dd4c-7729-410b-a4e2-f503b7e5dd2a)
 
+# Future designs
+
+One feature I aimed to implement was the ability for navigation links to be hidden behind a menu button on mobile screens. Despite my efforts, I encountered challenges in achieving the desired functionality.
+
 ## DESIGN:
 
 # Primary Color:
